@@ -1,0 +1,16 @@
+.margin-top{
+	margin-top: 20px;
+}
+
+.header a{
+	color: inherit;
+}
+
+.header a:hover{
+	text-decoration: none;
+}
+
+.post-listing a:hover{
+	text-decoration: none;
+	color: #EDEDED;
+}
